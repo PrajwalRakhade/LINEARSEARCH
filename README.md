@@ -1,6 +1,5 @@
 # LINEARSEARCH
 HOW TO WRITE THE CODE TO  SEARCH THE ELEMENT WHICH IS PRESENT IN ARRY
-
 #include <iostream>
 using namespace std;
 
